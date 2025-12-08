@@ -18,6 +18,9 @@ Project binnen het IT-LAB om een analoog toetsenbord te maken.
 -  pcb
 	tba
 
+- multiplexer
+	[Opencircuit CD74HC4067](https://opencircuit.be/product/cd74hc4067-16-channel-multiplexer-module)
+
 - switches
 	[lekker](https://wooting.io/product/lekker-switch-linear60?Size=70%20pack)
 
