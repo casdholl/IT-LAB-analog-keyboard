@@ -12,22 +12,22 @@ Project binnen het IT-LAB om een analoog toetsenbord te maken.
 
 ### Aankooplijst
 
--  microcontroller
+-  microcontroller:
     [liatris](https://splitkb.com/products/liatris?variant=43398706036995) / [adafruit feather](https://www.adafruit.com/product/4884)
-    
--  pcb
+
+-  pcb:
 	tba
 
-- multiplexer
+- multiplexer:
 	[Opencircuit CD74HC4067](https://opencircuit.be/product/cd74hc4067-16-channel-multiplexer-module)
 
-- switches
+- switches:
 	[lekker](https://wooting.io/product/lekker-switch-linear60?Size=70%20pack)
 
-- hall-effect sensoren
-	tba
+- hall-effect sensoren:
+	[# SI7213-B-00-IV](https://www.mouser.be/ProductDetail/Silicon-Labs/SI7213-B-00-IV?qs=sGAEpiMZZMu5vlrqIFXt5ePWQ71s98e8XNeiMxaImlbNjLz%2FZRsBUg%3D%3D)
 
-### programmeren
+### Programmeren
 
 todo
 ### Testen
