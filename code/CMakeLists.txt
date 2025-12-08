@@ -14,6 +14,10 @@ add_executable(analog_keyboard
     main.c
 )
 
+# enable usb output, disable uart output
+pico_enable_stdio_usb(analog_keyboard 1)
+pico_enable_stdio_uart(analog_keyboard 0)
+
 # Add pico_stdlib library which aggregates commonly used features
 target_link_libraries(analog_keyboard pico_stdlib)
 

@@ -2,7 +2,7 @@
 
 # Variabelen
 PICO_SDK=../include/pico-sdk
-PICO_BOARD=pico
+PICO_BOARD=pico2
 
 mkdir -p build
 cd build

@@ -1,8 +1,19 @@
+/**
+ * Copyright (c) 2020 Raspberry Pi (Trading) Ltd.
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
+
+// https://github.com/raspberrypi/pico-examples/blob/master/hello_world/usb/CMakeLists.txt
+
 #include <stdio.h>
 #include "pico/stdlib.h"
 
 int main() {
-    setup_default_uart();
-    printf("Hello, world!\n");
-    return 0;
+    stdio_init_all();
+    while (true) {
+        printf("Hello, world!\n");
+        sleep_ms(1000);
+    }
 }
