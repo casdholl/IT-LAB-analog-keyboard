@@ -29,7 +29,9 @@ Project binnen het IT-LAB om een analoog toetsenbord te maken.
 
 ### Programmeren
 
-todo
+- [Website](website) 
+- [Microcontroller](code)
+
 ### Testen
 
 todo
