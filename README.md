@@ -22,7 +22,7 @@ Project binnen het IT-LAB om een analoog toetsenbord te maken.
 	[Opencircuit CD74HC4067](https://opencircuit.be/product/cd74hc4067-16-channel-multiplexer-module)
 
 - switches:
-	[lekker](https://wooting.io/product/lekker-switch-linear60?Size=70%20pack)
+	[lekker](https://wooting.io/product/lekker-switch-l60-v2?Size=70%20pack)
 
 - hall-effect sensoren:
 	[# SI7213-B-00-IV](https://www.mouser.be/ProductDetail/Silicon-Labs/SI7213-B-00-IV?qs=sGAEpiMZZMu5vlrqIFXt5ePWQ71s98e8XNeiMxaImlbNjLz%2FZRsBUg%3D%3D)
